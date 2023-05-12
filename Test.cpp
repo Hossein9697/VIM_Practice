@@ -1,6 +1,6 @@
 #include <iostream>
 
-void getArray(int* array, int size)
+void getArrayPointer(int* array, int size)
 {
 	for(int i = 0;i < size;i++)
 	{
